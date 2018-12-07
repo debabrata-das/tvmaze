@@ -47,6 +47,6 @@ Example response:
 
  1. Run TvMazeDataIntegrator.Console and scrape the data from http://www.tvmaze.com/api
  2. Run TvInfoApiService
- 3. Navigate to http://localhost:50479/api/shows in a browser. For filtering results append: `pageNumber=1&pageSize=10` parameters at the end of the endpoint.
+ 3. Navigate to http://localhost:11972/api/shows in a browser. For filtering results append: `pageNumber=1&pageSize=10` parameters at the end of the endpoint.
  4. Alternatively navigate to http://localhost:11972/swagger/index.html for testing API on any browser
   
